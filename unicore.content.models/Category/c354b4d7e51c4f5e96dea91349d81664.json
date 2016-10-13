@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "c354b4d7e51c4f5e96dea91349d81664", 
+  "language": "kin_RW", 
+  "title": "IMIKURIRE Y\u2019UMWANA N\u2019UBURERE", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.5.0", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "imikurire-yumwana-nuburere", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
